@@ -8,7 +8,7 @@
 
 前往 replit.com 注册账户，然后点击下方按钮
 
-<a href="https://repl.it/github/wy580477/reader-replit">
+<a href="https://repl.it/github/zuiyichangdi/reader-replit">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
 </a>
 
